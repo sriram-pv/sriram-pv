@@ -8,8 +8,16 @@ Future Data Analyst
 <br /> [<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/pv-sriram/)
 - 😄 Pronouns: Techie
 
-### I code in
-<img height="50" width="50" src="https://img.icons8.com/color/48/000000/python.png" />  <img height="50" width="50" src="https://img.icons8.com/color/48/000000/html-5.png" /> <img height="50" width="50" src="https://img.icons8.com/color/48/000000/css3.png" /> <img width="50" height="50" src="https://img.icons8.com/color/48/tailwind_css.png" alt="tailwind_css"/> <img height="50" width="50" src="https://img.icons8.com/color/48/000000/javascript.png"/> <img width="48" height="48" src="https://img.icons8.com/color/48/react-native.png" alt="react-native"/>  <img width="48" height="48" src="https://img.icons8.com/fluency/48/node-js.png" alt="node-js"/> <img width="48" height="48" src="https://img.icons8.com/color/48/express-js.png" alt="express-js"/> <img height="50" width="50" src="https://img.icons8.com/color/48/000000/mongodb.png"/> <img height="50" width="50" src="https://img.icons8.com/color/48/000000/nodejs.png"/> 
+### 💡 I Work With
 
+<img height="40" src="https://img.icons8.com/color/48/000000/python.png" /> 
+<img height="40" src="https://img.icons8.com/ios-filled/50/000000/sql.png" /> 
+<img height="40" src="https://img.icons8.com/color/48/000000/microsoft-excel-2019--v1.png" />
+<img height="40" src="<img height="40" src="https://img.icons8.com/color/48/000000/power-bi.png" />
+<img height="40" src="https://img.icons8.com/color/48/000000/html-5.png" />
+<img height="40" src="https://img.icons8.com/color/48/000000/css3.png" />
+<img height="40" src="https://img.icons8.com/color/48/tailwind_css.png" />
+<img height="40" src="https://img.icons8.com/color/48/000000/javascript.png" />
+<img height="40" src="https://img.icons8.com/color/48/react-native.png" />
 
 
