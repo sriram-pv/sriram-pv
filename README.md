@@ -17,9 +17,8 @@ Future Data Analyst
 
 ### 🚀 What’s Next?
 
-- Learn more advanced topics in **Data Visualization** with **Power BI**.
-- Dive deeper into **Machine Learning** with **Python**.
-
+- Learn more advanced topics in **Data Visualization** with **Power BI.**
+- Enhance my proficiency in **Advanced Analytics** with **Python.**
 
 
 
