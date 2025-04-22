@@ -13,7 +13,7 @@ Future Data Analyst
 ### 💡 I Work With
 
 <img height="40" src="https://img.icons8.com/color/48/000000/python.png" /> <img height="40" src="https://img.icons8.com/fluency/48/sql.png" /> <img height="40" src="https://img.icons8.com/color/48/000000/microsoft-excel-2019--v1.png" /><img height="40" src="https://img.icons8.com/fluency/48/power-bi-2021.png" />
-<img height="40" src="https://img.icons8.com/color/48/000000/html-5.png" /><img height="40" src="https://img.icons8.com/color/48/000000/css3.png" /><img height="40" src="https://img.icons8.com/color/48/tailwind_css.png" /><img height="40" src="https://img.icons8.com/color/48/000000/javascript.png" /><img height="40" src="https://img.icons8.com/color/48/react-native.png" /> <img height="40" src="https://img.icons8.com/color/48/git.png" /> <img height="40" src="https://img.icons8.com/sf-black-filled/64/github.png" />
+<img height="40" src="https://img.icons8.com/color/48/000000/html-5.png" /><img height="40" src="https://img.icons8.com/color/48/000000/css3.png" /><img height="40" src="https://img.icons8.com/color/48/tailwind_css.png" /><img height="40" src="https://img.icons8.com/color/48/000000/javascript.png" /><img height="40" src="https://img.icons8.com/color/48/react-native.png" /> <img height="40" src="https://img.icons8.com/color/48/git.png" /> <img height="40" src="https://img.icons8.com/sf-black-filled/64/FFFFFF/github.png" />
 
 ### 🚀 What’s Next?
 
