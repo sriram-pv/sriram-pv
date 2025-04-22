@@ -13,8 +13,11 @@ Future Data Analyst
 ### 🛠️ Skills & Technologies
 
 - **Programming & Scripting**: <img height="40" src="https://img.icons8.com/color/48/000000/python.png" /> <img height="40" src="https://img.icons8.com/fluency/48/sql.png" />
+
 - **Data Analysis Tools**:  <img height="40" src="https://img.icons8.com/color/48/000000/microsoft-excel-2019--v1.png" /><img height="40" src="https://img.icons8.com/fluency/48/power-bi-2021.png" />
+
 - **Web Development**: <img height="40" src="https://img.icons8.com/color/48/000000/html-5.png" /><img height="40" src="https://img.icons8.com/color/48/000000/css3.png" /><img height="40" src="https://img.icons8.com/color/48/tailwind_css.png" /><img height="40" src="https://img.icons8.com/color/48/000000/javascript.png" /><img height="40" src="https://img.icons8.com/color/48/react-native.png" />
+
 - **Version Control**: <img height="40" src="https://img.icons8.com/color/48/git.png" /> <img height="40" src="https://img.icons8.com/sf-black-filled/64/github.png" /> 
 
 ### 💡 I Work With
